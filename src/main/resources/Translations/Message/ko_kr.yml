@@ -1,0 +1,7 @@
+trigger: "<white>인벤토리와 경험치를 보존하였습니다</white>"
+useItem: "<white>인벤토리 보호권을 활성화하였습니다</white>"
+alreadyUsed: "<red>이미 인벤토리 보호권을 사용한 상태입니다</red>"
+
+placeholder:
+  active: "활성화"
+  inactive: "비활성화"
